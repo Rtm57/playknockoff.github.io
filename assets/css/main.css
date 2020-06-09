@@ -2465,3 +2465,10 @@ input, select, textarea {
 			   top: 0;
 			   width: 100%;
 			}
+
+		/*Recent Builds */
+
+			.recentbuilds {
+				float: left;
+				margin: 0 2em 2em 0;
+			}
